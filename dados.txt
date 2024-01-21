@@ -1,11 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Levi de Sousa Barros
+-Profissão: Instalador
+-Cidade: São Paulo
+-O que faz nas horas vaga: Estudo, jogo bola, fico com a familia.
+-Feedback sobre o curso Qualidade de Software: Estou achando o curso muito bom, estou buscando aprender e praticar.
+-Feedback sobre a plataforma de estudo da EBAC: Achei a plataforma muito boa, com visual bem bonito, acho q eu faria algumas 
+alteracoes, mas nada muito complicado.
 
 Obrigado!!!
 
